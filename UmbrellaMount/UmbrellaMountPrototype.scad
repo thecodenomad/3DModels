@@ -2,7 +2,7 @@
 scale = 25.4;
 //z=2*scale;
 
-z=2.25*scale;
+z=.75;
 x=5.25*scale;
 y=6*scale;
 
