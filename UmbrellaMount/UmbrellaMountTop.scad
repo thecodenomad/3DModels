@@ -6,7 +6,7 @@ z=2.25*scale;
 x=5.25*scale;
 y=6*scale;
 
-radius_inner = .77*scale;
+radius_inner = .76*scale;
 radius_outer = 1.35*scale;
 
 zip_tie_radius_inner = .15*scale;
